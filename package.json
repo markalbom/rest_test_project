@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/markalbom/rest_test_project#readme",
   "dependencies": {
-    "mocha": "^7.1.2"
+    "mocha": "^10.2.0"
   }
 }
